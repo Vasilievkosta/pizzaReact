@@ -11,10 +11,10 @@ function Home() {
     const [isLoading, setLoading] = useState(true);
 
     React.useEffect(() => {
-        fetch('https://626d16545267c14d5677d9c2.mockapi.io/items')
+        fetch('https://631b6309fae3df4dcffd7df6.mockapi.io/api/items')
             .then((res) => res.json())
             .then((arr) => {
-                setItems(arr.slice(0, 10));
+                setItems(arr);
                 setLoading(false);
             });
         window.scrollTo(0, 0);
