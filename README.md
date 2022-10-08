@@ -1,2 +1,2 @@
 # Yes Pizza!!
-https://github.com/Vasilievkosta/pizzaReact/puplic/index.html
+https://github.com/Vasilievkosta/pizzaReact/public/index.html
