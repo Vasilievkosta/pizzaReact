@@ -1,2 +1,2 @@
 # Yes Pizza!!
-https://github.com/Vasilievkosta/pizzaReact/puplic/
+https://github.com/Vasilievkosta/pizzaReact/puplic/index.html
